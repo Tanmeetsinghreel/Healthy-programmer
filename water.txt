@@ -1,0 +1,6 @@
+
+Drank water at: 2021-04-11 02:08:52.623047
+Done eyes excersise at: 2021-04-11 02:08:57.703013
+Drank water at: 2021-04-11 02:09:04.993006
+Done physical excersise at: 2021-04-11 02:09:09.951009
+Drank water at: 2021-04-11 02:09:13.801808
